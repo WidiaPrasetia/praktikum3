@@ -19,6 +19,7 @@ public class App {
         al2.add("serena");
         al2.add("Swati");
         al2.add("janid");
+        al2.add("moonton");
 
         String a = al.get(0);
         Iterator<String> b = al2.iterator();

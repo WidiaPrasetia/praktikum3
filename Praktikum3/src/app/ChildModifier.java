@@ -15,6 +15,6 @@ package app;
 
     @Override
     void defaultMethod() {
-        System.out.println("ini adlaah override dari default method");
+        System.out.println("ini adalah override dari default method");
     }
  }
